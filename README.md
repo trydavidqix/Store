@@ -194,14 +194,9 @@ Este projeto é privado e está sob a licença do desenvolvedor.
 
 ## 👨‍💻 Autor
 
-<div align="center">
 
 | [<img src="https://avatars.githubusercontent.com/u/193255351?s=400&u=fc9352baf3193df4491c0a07d9b8a40ea0a82e9f&v=4" width="100" style="border-radius: 50%;"><br><sub>**David Macêdo**</sub>](https://github.com/trydavidqix) |
 |:---:|
 | [LinkedIn](https://www.linkedin.com/in/trydavidqix/) \| [GitHub](https://github.com/trydavidqix) |
 
-</div>
-
 ---
-
-⭐ **Não esqueça de dar uma estrela se você gostou do projeto!**
