@@ -5,7 +5,7 @@ Um aplicativo mobile de e-commerce moderno e elegante para venda de tênis, dese
 ## 📱 Preview
 
 <div align="center">
-  <img src="./src/assets/Screenshot_1751670591.png/>
+  <img src="./src/assets/Screenshot_1751670591.png" alt="Store App Preview" width="300"/>
 </div>
 
 *Interface principal do aplicativo mostrando o catálogo de tênis com navegação intuitiva*
@@ -52,7 +52,7 @@ O **Store** é um aplicativo de e-commerce focado na venda de tênis masculinos,
 
 ## 🏗️ Estrutura do Projeto
 
-```
+```bash
 Store/
 ├── src/
 │   ├── components/           # Componentes reutilizáveis
@@ -82,12 +82,14 @@ Store/
 ### Instalação
 
 1. **Clone o repositório**
+
    ```bash
    git clone https://github.com/trydavidqix/Store.git
    cd Store
    ```
 
 2. **Instale as dependências**
+
    ```bash
    npm install
    # ou
@@ -95,6 +97,7 @@ Store/
    ```
 
 3. **Execute o projeto**
+
    ```bash
    npm start
    # ou
@@ -102,6 +105,7 @@ Store/
    ```
 
 4. **Para executar em plataformas específicas**
+
    ```bash
    # Android
    npm run android
@@ -116,12 +120,14 @@ Store/
 ## 📱 Telas do Aplicativo
 
 ### 🏠 Tela Principal (Home)
+
 - Header com banner promocional
 - Filtro de produtos (Tênis Masculino)
 - Grid de produtos com imagens, nomes e preços
 - Navegação para detalhes do produto
 
 ### 🔍 Tela de Detalhes (Detail)
+
 - Imagem em destaque do produto
 - Informações de preço e nome
 - Seletor de cores (dots coloridos)
@@ -134,26 +140,34 @@ Store/
 ## 🎨 Componentes
 
 ### `Shoes`
+
 Componente de card de produto com:
+
 - Imagem do tênis
 - Nome do produto (com truncamento automático)
 - Preço com opacidade reduzida
 - Ação de clique configurável
 
 ### `SizeButton`
+
 Botão para seleção de tamanhos com:
+
 - Estilo customizável (cor de fundo e texto)
 - Estados visual para seleção
 - Suporte a diferentes numerações
 
 ### `Dot`
+
 Indicador visual de cores com:
+
 - Formato circular
 - Cor configurável via props
 - Sombra para destaque
 
 ### `Button`
+
 Botão principal de compra com:
+
 - Estilo consistente
 - Texto "COMPRAR"
 - Design destacado
@@ -176,9 +190,18 @@ Botão principal de compra com:
 
 ## 📄 Licença
 
+Este projeto é privado e está sob a licença do desenvolvedor.
 
-## Author
+## 👨‍💻 Autor
 
-| [<img src="https://avatars.githubusercontent.com/u/193255351?s=400&u=fc9352baf3193df4491c0a07d9b8a40ea0a82e9f&v=4" width="100" style="border-radius: 50%;"><br><sub>David Macêdo</sub>](https://github.com/trydavidqix) |
-| :---------------------------------------------------------------------------------------------------------------------------------------: |
-| [LinkedIn](https://www.linkedin.com/in/trydavidqix/) |
+<div align="center">
+
+| [<img src="https://avatars.githubusercontent.com/u/193255351?s=400&u=fc9352baf3193df4491c0a07d9b8a40ea0a82e9f&v=4" width="100" style="border-radius: 50%;"><br><sub>**David Macêdo**</sub>](https://github.com/trydavidqix) |
+|:---:|
+| [LinkedIn](https://www.linkedin.com/in/trydavidqix/) \| [GitHub](https://github.com/trydavidqix) |
+
+</div>
+
+---
+
+⭐ **Não esqueça de dar uma estrela se você gostou do projeto!**
